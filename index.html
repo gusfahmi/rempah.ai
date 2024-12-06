@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rempah.ai</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif; 
+        }
+    </style>
+</head>
+<body class="bg-gray-100"> 
+    <div class="w-full justify-start items-center flex flex-col p-10">
+
+        <div class="w-[700px] bg-white rounded-3xl mt-5 p-10">
+
+            <div class="flex flex-col justify-center items-center">
+                <img src="logo.png" class="m-auto w-[90px] h-[90px]">
+                <h2 class="text-2xl font-bold text-center uppercase">Rempah.ai</h2>
+                <p class="mb-6 font-bold">Solusi sehat alami dengan rempah yang tepat</p>
+            </div> 
+            <div class="mt-5"> 
+                <!-- Input Text Area -->
+                <input 
+                    type="text" 
+                    id="symptomsInput" 
+                    class="w-full p-3 border-2 border-gray-300 rounded-lg mb-4" 
+                    placeholder="Masukkan gejala, Contoh : mata lelah dan sulit tidur"
+                />
+            </div>
+        </div>
+        
+        <div id="res-text"></div>
+        
+        <!-- Hasil Prediksi -->
+        <div id="result" class="mt-4 grid grid-cols-3 gap-4">
+            
+        </div>
+
+        
+
+        
+    </div>
+
+    <script>
+        // Ambil elemen input dan result
+        const symptomsInput = document.getElementById('symptomsInput');
+        const resultDiv = document.getElementById('result');
+
+        // Fungsi untuk menangani submit
+        symptomsInput.addEventListener('keydown', async function (event) {
+            if (event.key === 'Enter') {
+                document.getElementById('res-text').innerHTML = '';
+
+                const symptoms = symptomsInput.value;
+
+                // Cek jika input kosong
+                if (!symptoms.trim()) {
+                    resultDiv.innerHTML = '<p class="text-red-500">Gejala tidak boleh kosong!</p>';
+                    return;
+                }
+
+                // Menampilkan loading text
+                document.getElementById('res-text').innerHTML = '<p class="text-blue-500">Memproses...</p>';
+
+                try {
+                    // Mengirimkan POST request ke endpoint
+                    const response = await fetch('http://localhost:3000/predict', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ symptoms })
+                    });
+
+                    // Jika berhasil, tampilkan hasilnya
+                    if (response.ok) {
+                        const data = await response.json();
+                        displayResult(data);
+                    } else {
+                        resultDiv.innerHTML = '<p class="text-red-500">Terjadi kesalahan pada server!</p>';
+                    }
+                } catch (error) {
+                    resultDiv.innerHTML = '<p class="text-red-500">Gagal menghubungi server!</p>';
+                    console.error('Error:', error);
+                }
+            }
+        });
+
+        // Fungsi untuk menampilkan hasil prediksi
+        function displayResult(data) {
+
+            if (data.results.length > 0) {
+                document.getElementById('res-text').innerHTML = '<h2 class="mt-5 font-bold text-lg uppercase">Rekomendasi Rempah</h2>';
+            }
+
+            console.log(data)
+            if (data.results.length === 0) {
+                resultDiv.innerHTML = '<p class="text-gray-500">Tidak ada hasil yang ditemukan.</p>';
+                return;
+            }
+
+            const resultHTML = data.results.map(result => {
+                return `
+                    <div class="bg-gray-200 p-6 rounded-lg shadow mb-4 flex-1">
+                        <h3 class="font-semibold text-lg">Penyakit Terkait:</h3>
+                        <ul class="list-disc pl-5">
+                            ${result.penyakit.map(disease => `<li>${disease}</li>`).join('')}
+                        </ul>
+                        <p class="mt-5 font-semibold">Metode Penggunaan:</p>
+                        <p>${result.penggunaan}</p>
+                        <p class="mt-5 font-semibold">Dosis:</p>
+                        <p>${result.dosis}</p>
+
+                        <div class="mt-5">
+                            <p class="font-semibold">Kombinasi Rempah:</p>
+                            <ul class="list-disc pl-5">
+                                ${result.kombinasi.map(spice => `<li>${spice.nama_rempah}</li>`).join('')}
+                            </ul> 
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            resultDiv.innerHTML = resultHTML;
+        }
+    </script>
+</body>
+</html>

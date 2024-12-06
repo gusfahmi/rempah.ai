@@ -1,0 +1,946 @@
+[
+	{
+		"en": "Boil ginger (2 cm) and turmeric (2 cm) with 500 ml of water, drink it warm.",
+		"id": "Rebus jahe (2 cm) dan kunyit (2 cm) dengan 500 ml air, minum selagi hangat."
+	},
+	{
+		"en": "Steep cinnamon (1 stick) and ginger (1 cm) in hot water, add honey.",
+		"id": "Seduh kayu manis (1 batang) dan jahe (1 cm) dalam air panas, tambahkan madu."
+	},
+	{
+		"en": "Boil cardamom (3 pods) and lemongrass (1 stalk).",
+		"id": "Rebus kapulaga (3 butir) dan serai (1 batang)."
+	},
+	{
+		"en": "Boil cloves (5 pieces) and bay leaves (5 leaves) with water.",
+		"id": "Rebus cengkeh (5 butir) dan daun salam (5 lembar) dengan air."
+	},
+	{
+		"en": "Steep black cumin (1 tsp) and a pinch of nutmeg powder in warm milk.",
+		"id": "Seduh jintan hitam (1 sdt) dan bubuk pala (sejumput) dalam susu hangat."
+	},
+	{
+		"en": "Boil galangal (2 cm) and cinnamon (1 stick) with water.",
+		"id": "Rebus lengkuas (2 cm) dan kayu manis (1 batang) dengan air."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks) and ginger (1 cm), add honey.",
+		"id": "Rebus serai (2 batang) dan jahe (1 cm), tambahkan madu."
+	},
+	{
+		"en": "Steep cloves (4 pieces) and turmeric (1 cm), drink it warm.",
+		"id": "Seduh cengkeh (4 butir) dan kunyit (1 cm), minum selagi hangat."
+	},
+	{
+		"en": "Boil bay leaves (5 leaves) and cinnamon (1 stick).",
+		"id": "Rebus daun salam (5 lembar) dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil ginger (1 cm) and cardamom (3 pods).",
+		"id": "Rebus jahe (1 cm) dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Add a pinch of nutmeg powder and cinnamon to warm milk.",
+		"id": "Tambahkan bubuk pala (sejumput) dan kayu manis ke dalam susu hangat."
+	},
+	{
+		"en": "Boil ginger (1 cm) and bay leaves (4 pieces).",
+		"id": "Rebus jahe (1 cm) dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Mix black cumin (1 tsp) and turmeric (1 cm) in tea.",
+		"id": "Campur jintan hitam (1 sdt) dan kunyit (1 cm) ke dalam teh."
+	},
+	{
+		"en": "Steep cloves (5 pieces) and ginger (1 cm).",
+		"id": "Seduh cengkeh (5 butir) dan jahe (1 cm)."
+	},
+	{
+		"en": "Boil cardamom (3 pods) and cloves (5 pieces).",
+		"id": "Rebus kapulaga (3 butir) dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil galangal (1 cm) and bay leaves (5 pieces).",
+		"id": "Rebus lengkuas (1 cm) dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks) and turmeric (1 cm).",
+		"id": "Rebus serai (2 batang) dan kunyit (1 cm)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick) and galangal (1 cm).",
+		"id": "Rebus kayu manis (1 batang) dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep cloves (3 pieces) and lemongrass (1 stalk).",
+		"id": "Seduh cengkeh (3 butir) dan serai (1 batang)."
+	},
+	{
+		"en": "Boil turmeric (2 cm) and bay leaves (4 pieces).",
+		"id": "Rebus kunyit (2 cm) dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Boil black cumin (1 tsp) and lemongrass (2 stalks).",
+		"id": "Rebus jintan hitam (1 sdt) dan serai (2 batang)."
+	},
+	{
+		"en": "Steep ginger (1 cm) and cloves (5 pieces) in hot water.",
+		"id": "Seduh jahe (1 cm) dan cengkeh (5 butir) dalam air panas."
+	},
+	{
+		"en": "Boil cardamom (3 pods) and galangal (1 cm).",
+		"id": "Rebus kapulaga (3 butir) dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep cinnamon (1 stick) and turmeric (1 cm) with hot water.",
+		"id": "Seduh kayu manis (1 batang) dan kunyit (1 cm) dengan air panas."
+	},
+	{
+		"en": "Boil cloves (3 pieces) and a pinch of nutmeg powder in milk.",
+		"id": "Rebus cengkeh (3 butir) dan bubuk pala (sejumput) dalam susu."
+	},
+	{
+		"en": "Steep ginger (1 cm) and a pinch of nutmeg powder in hot water.",
+		"id": "Seduh jahe (1 cm) dan bubuk pala (sejumput) dalam air panas."
+	},
+	{
+		"en": "Boil cardamom (3 pods) and bay leaves (4 pieces).",
+		"id": "Rebus kapulaga (3 butir) dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Boil galangal (1 cm) and cloves (5 pieces).",
+		"id": "Rebus lengkuas (1 cm) dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks) and bay leaves (5 pieces).",
+		"id": "Rebus serai (2 batang) dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Steep black cumin (1 tsp) and ginger (1 cm) in warm tea.",
+		"id": "Seduh jintan hitam (1 sdt) dan jahe (1 cm) dalam teh hangat."
+	},
+	{
+		"en": "Boil turmeric (1 cm) and cardamom (3 pods).",
+		"id": "Rebus kunyit (1 cm) dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil ginger (2 cm), lemongrass (2 stalks), and cinnamon (1 stick).",
+		"id": "Rebus jahe (2 cm), serai (2 batang), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Steep cloves (4 pieces) and black cumin (1 tsp).",
+		"id": "Seduh cengkeh (4 butir) dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Steep cardamom (3 pods) and a pinch of nutmeg powder in warm milk.",
+		"id": "Seduh kapulaga (3 butir) dan bubuk pala (sejumput) dalam susu hangat."
+	},
+	{
+		"en": "Boil galangal (2 cm) and lemongrass (1 stalk).",
+		"id": "Rebus lengkuas (2 cm) dan serai (1 batang)."
+	},
+	{
+		"en": "Boil bay leaves (5 pieces) and turmeric (2 cm).",
+		"id": "Rebus daun salam (5 lembar) dan kunyit (2 cm)."
+	},
+	{
+		"en": "Boil ginger (1 cm), cardamom (3 pods), and cloves (4 pieces).",
+		"id": "Rebus jahe (1 cm), kapulaga (3 butir), dan cengkeh (4 butir)."
+	},
+	{
+		"en": "Steep cinnamon (1 stick), nutmeg powder (a pinch), and lemongrass (1 stalk).",
+		"id": "Seduh kayu manis (1 batang), bubuk pala (sejumput), dan serai (1 batang)."
+	},
+	{
+		"en": "Boil black cumin (1 tsp) and cinnamon (1 stick).",
+		"id": "Rebus jintan hitam (1 sdt) dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), ginger (2 cm), and cloves (5 pieces).",
+		"id": "Rebus kunyit (2 cm), jahe (2 cm), dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil galangal (2 cm) and ginger (2 cm) in 500 ml of water.",
+		"id": "Rebus lengkuas (2 cm) dan jahe (2 cm) dalam 500 ml air."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), turmeric (1 cm), and cinnamon (1 stick).",
+		"id": "Rebus serai (2 batang), kunyit (1 cm), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Steep cloves (4 pieces), galangal (1 cm), and nutmeg powder (a pinch).",
+		"id": "Seduh cengkeh (4 butir), lengkuas (1 cm), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), lemongrass (2 stalks), and ginger (1 cm).",
+		"id": "Rebus kapulaga (3 butir), serai (2 batang), dan jahe (1 cm)."
+	},
+	{
+		"en": "Boil bay leaves (5 pieces) and black cumin (1 tsp).",
+		"id": "Rebus daun salam (5 lembar) dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), galangal (1 cm), and cloves (4 pieces).",
+		"id": "Rebus kunyit (2 cm), lengkuas (1 cm), dan cengkeh (4 butir)."
+	},
+	{
+		"en": "Steep ginger (1 cm), cinnamon (1 stick), and nutmeg powder (a pinch) in warm milk.",
+		"id": "Seduh jahe (1 cm), kayu manis (1 batang), dan bubuk pala (sejumput) dalam susu hangat."
+	},
+	{
+		"en": "Boil cloves (5 pieces), cardamom (3 pods), and bay leaves (4 pieces).",
+		"id": "Rebus cengkeh (5 butir), kapulaga (3 butir), dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), cinnamon (1 stick), and black cumin (1 tsp).",
+		"id": "Rebus serai (2 batang), kayu manis (1 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cardamom (2 pods), and turmeric (1 cm).",
+		"id": "Rebus lengkuas (1 cm), kapulaga (2 butir), dan kunyit (1 cm)."
+	},
+	{
+		"en": "Steep ginger (2 cm), lemongrass (1 stalk), and nutmeg powder (a pinch).",
+		"id": "Seduh jahe (2 cm), serai (1 batang), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil turmeric (1 cm), cloves (4 pieces), and cinnamon (1 stick).",
+		"id": "Rebus kunyit (1 cm), cengkeh (4 butir), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), galangal (2 cm), and lemongrass (1 stalk).",
+		"id": "Rebus kapulaga (3 butir), lengkuas (2 cm), dan serai (1 batang)."
+	},
+	{
+		"en": "Boil black cumin (1 tsp), bay leaves (4 pieces), and nutmeg powder (a pinch).",
+		"id": "Rebus jintan hitam (1 sdt), daun salam (4 lembar), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), cinnamon (1 stick), and turmeric (1 cm).",
+		"id": "Rebus serai (2 batang), kayu manis (1 batang), dan kunyit (1 cm)."
+	},
+	{
+		"en": "Boil cloves (4 pieces), cardamom (2 pods), and ginger (1 cm).",
+		"id": "Rebus cengkeh (4 butir), kapulaga (2 butir), dan jahe (1 cm)."
+	},
+	{
+		"en": "Boil galangal (2 cm), bay leaves (5 pieces), and nutmeg powder (a pinch).",
+		"id": "Rebus lengkuas (2 cm), daun salam (5 lembar), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil turmeric (1 cm), lemongrass (2 stalks), and black cumin (1 tsp).",
+		"id": "Rebus kunyit (1 cm), serai (2 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Steep cinnamon (1 stick), nutmeg powder (a pinch), and cardamom (2 pods).",
+		"id": "Seduh kayu manis (1 batang), bubuk pala (sejumput), dan kapulaga (2 butir)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cardamom (3 pods), and bay leaves (5 pieces).",
+		"id": "Rebus jahe (2 cm), kapulaga (3 butir), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), ginger (1 cm), and black cumin (1 tsp).",
+		"id": "Rebus serai (2 batang), jahe (1 cm), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cinnamon (1 stick), and cardamom (3 pods).",
+		"id": "Rebus kunyit (2 cm), kayu manis (1 batang), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil galangal (2 cm), cloves (4 pieces), and bay leaves (5 pieces).",
+		"id": "Rebus lengkuas (2 cm), cengkeh (4 butir), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Steep ginger (1 cm), turmeric (1 cm), and nutmeg powder (a pinch) in warm water.",
+		"id": "Seduh jahe (1 cm), kunyit (1 cm), dan bubuk pala (sejumput) dalam air hangat."
+	},
+	{
+		"en": "Boil cloves (4 pieces), cardamom (2 pods), and lemongrass (2 stalks).",
+		"id": "Rebus cengkeh (4 butir), kapulaga (2 butir), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil bay leaves (5 pieces), black cumin (1 tsp), and turmeric (1 cm).",
+		"id": "Rebus daun salam (5 lembar), jintan hitam (1 sdt), dan kunyit (1 cm)."
+	},
+	{
+		"en": "Boil galangal (2 cm), cinnamon (1 stick), and ginger (2 cm).",
+		"id": "Rebus lengkuas (2 cm), kayu manis (1 batang), dan jahe (2 cm)."
+	},
+	{
+		"en": "Boil turmeric (1 cm), lemongrass (2 stalks), and bay leaves (4 pieces).",
+		"id": "Rebus kunyit (1 cm), serai (2 batang), dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Steep cloves (4 pieces), black cumin (1 tsp), and nutmeg powder (a pinch).",
+		"id": "Seduh cengkeh (4 butir), jintan hitam (1 sdt), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), ginger (2 cm), and galangal (2 cm).",
+		"id": "Rebus kapulaga (3 butir), jahe (2 cm), dan lengkuas (2 cm)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick), lemongrass (1 stalk), and galangal (1 cm).",
+		"id": "Rebus kayu manis (1 batang), serai (1 batang), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep black cumin (1 tsp), turmeric (1 cm), and nutmeg powder (a pinch).",
+		"id": "Seduh jintan hitam (1 sdt), kunyit (1 cm), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil ginger (2 cm), bay leaves (5 pieces), and cardamom (3 pods).",
+		"id": "Rebus jahe (2 cm), daun salam (5 lembar), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil cloves (4 pieces), galangal (1 cm), and cardamom (3 pods).",
+		"id": "Rebus cengkeh (4 butir), lengkuas (1 cm), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Steep cardamom (3 pods), bay leaves (4 pieces), and nutmeg powder (a pinch).",
+		"id": "Seduh kapulaga (3 butir), daun salam (4 lembar), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil ginger (2 cm), turmeric (1 cm), and black cumin (1 tsp).",
+		"id": "Rebus jahe (2 cm), kunyit (1 cm), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), galangal (1 cm), and bay leaves (5 pieces).",
+		"id": "Rebus serai (2 batang), lengkuas (1 cm), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cinnamon (1 stick), and black cumin (1 tsp).",
+		"id": "Rebus kunyit (2 cm), kayu manis (1 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Steep cloves (5 pieces), cardamom (3 pods), and nutmeg powder (a pinch).",
+		"id": "Seduh cengkeh (5 butir), kapulaga (3 butir), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil ginger (2 cm), bay leaves (4 pieces), and cinnamon (1 stick).",
+		"id": "Rebus jahe (2 cm), daun salam (4 lembar), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (2 pods), galangal (1 cm), and black cumin (1 tsp).",
+		"id": "Rebus kapulaga (2 butir), lengkuas (1 cm), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil lemongrass (1 stalk), turmeric (1 cm), and cloves (4 pieces).",
+		"id": "Rebus serai (1 batang), kunyit (1 cm), dan cengkeh (4 butir)."
+	},
+	{
+		"en": "Steep galangal (1 cm), cinnamon (1 stick), and cardamom (3 pods).",
+		"id": "Seduh lengkuas (1 cm), kayu manis (1 batang), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil ginger (2 cm), black cumin (1 tsp), and bay leaves (5 pieces).",
+		"id": "Rebus jahe (2 cm), jintan hitam (1 sdt), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cardamom (2 pods), and nutmeg powder (a pinch).",
+		"id": "Rebus kunyit (2 cm), kapulaga (2 butir), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil cloves (4 pieces), galangal (1 cm), and lemongrass (1 stalk).",
+		"id": "Rebus cengkeh (4 butir), lengkuas (1 cm), dan serai (1 batang)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick), turmeric (1 cm), and ginger (2 cm).",
+		"id": "Rebus kayu manis (1 batang), kunyit (1 cm), dan jahe (2 cm)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), bay leaves (4 pieces), and cloves (4 pieces).",
+		"id": "Rebus kapulaga (3 butir), daun salam (4 lembar), dan cengkeh (4 butir)."
+	},
+	{
+		"en": "Steep galangal (1 cm), nutmeg powder (a pinch), and black cumin (1 tsp).",
+		"id": "Seduh lengkuas (1 cm), bubuk pala (sejumput), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), cinnamon (1 stick), and bay leaves (5 pieces).",
+		"id": "Rebus serai (2 batang), kayu manis (1 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil turmeric (1 cm), ginger (2 cm), and galangal (1 cm).",
+		"id": "Rebus kunyit (1 cm), jahe (2 cm), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep cloves (4 pieces), black cumin (1 tsp), and cinnamon (1 stick).",
+		"id": "Seduh cengkeh (4 butir), jintan hitam (1 sdt), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), turmeric (1 cm), and lemongrass (2 stalks).",
+		"id": "Rebus kapulaga (3 butir), kunyit (1 cm), dan serai (2 batang)."
+	},
+	{
+		"en": "Steep galangal (1 cm), cinnamon (1 stick), and nutmeg powder (a pinch).",
+		"id": "Seduh lengkuas (1 cm), kayu manis (1 batang), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil ginger (2 cm), bay leaves (5 pieces), and black cumin (1 tsp).",
+		"id": "Rebus jahe (2 cm), daun salam (5 lembar), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil turmeric (1 cm), galangal (1 cm), and cloves (5 pieces).",
+		"id": "Rebus kunyit (1 cm), lengkuas (1 cm), dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), cinnamon (1 stick), and black cumin (1 tsp).",
+		"id": "Rebus serai (2 batang), kayu manis (1 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Steep cloves (5 pieces), nutmeg powder (a pinch), and cardamom (3 pods).",
+		"id": "Seduh cengkeh (5 butir), bubuk pala (sejumput), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), lemongrass (2 stalks), and ginger (2 cm).",
+		"id": "Rebus kunyit (2 cm), serai (2 batang), dan jahe (2 cm)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), cinnamon (1 stick), and galangal (1 cm).",
+		"id": "Rebus kapulaga (3 butir), kayu manis (1 batang), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cloves (4 pieces), and bay leaves (5 pieces).",
+		"id": "Rebus jahe (2 cm), cengkeh (4 butir), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Steep black cumin (1 tsp), turmeric (2 cm), and nutmeg powder (a pinch).",
+		"id": "Seduh jintan hitam (1 sdt), kunyit (2 cm), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cardamom (3 pods), and bay leaves (4 pieces).",
+		"id": "Rebus lengkuas (1 cm), kapulaga (3 butir), dan daun salam (4 lembar)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), ginger (2 cm), and cardamom (3 pods).",
+		"id": "Rebus serai (2 batang), jahe (2 cm), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Steep cinnamon (1 stick), cloves (5 pieces), and nutmeg powder (a pinch).",
+		"id": "Seduh kayu manis (1 batang), cengkeh (5 butir), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), bay leaves (5 pieces), and black cumin (1 tsp).",
+		"id": "Rebus kunyit (2 cm), daun salam (5 lembar), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil cloves (4 pieces), lemongrass (2 stalks), and galangal (1 cm).",
+		"id": "Rebus cengkeh (4 butir), serai (2 batang), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cardamom (3 pods), and black cumin (1 tsp).",
+		"id": "Rebus jahe (2 cm), kapulaga (3 butir), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cinnamon (1 stick), and cloves (4 pieces).",
+		"id": "Rebus lengkuas (1 cm), kayu manis (1 batang), dan cengkeh (4 butir)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cloves (4 pieces), and cinnamon (1 stick).",
+		"id": "Rebus kunyit (2 cm), cengkeh (4 butir), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil ginger (2 cm), lemongrass (2 stalks), and bay leaves (5 pieces).",
+		"id": "Rebus jahe (2 cm), serai (2 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cardamom (3 pods), and black cumin (1 tsp).",
+		"id": "Rebus lengkuas (1 cm), kapulaga (3 butir), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), cinnamon (1 stick), and lemongrass (2 stalks).",
+		"id": "Rebus cengkeh (5 butir), kayu manis (1 batang), dan serai (2 batang)."
+	},
+	{
+		"en": "Steep nutmeg powder (a pinch), ginger (2 cm), and cardamom (3 pods).",
+		"id": "Seduh bubuk pala (sejumput), jahe (2 cm), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), black cumin (1 tsp), and galangal (1 cm).",
+		"id": "Rebus serai (2 batang), jintan hitam (1 sdt), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep ginger (2 cm), bay leaves (4 pieces), and nutmeg powder (a pinch).",
+		"id": "Seduh jahe (2 cm), daun salam (4 lembar), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil cloves (4 pieces), galangal (1 cm), and cardamom (3 pods).",
+		"id": "Rebus cengkeh (4 butir), lengkuas (1 cm), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), black cumin (1 tsp), and cinnamon (1 stick).",
+		"id": "Rebus kunyit (2 cm), jintan hitam (1 sdt), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Steep lemongrass (2 stalks), nutmeg powder (a pinch), and cloves (5 pieces).",
+		"id": "Seduh serai (2 batang), bubuk pala (sejumput), dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil ginger (2 cm), galangal (1 cm), and cinnamon (1 stick).",
+		"id": "Rebus jahe (2 cm), lengkuas (1 cm), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), bay leaves (5 pieces), and lemongrass (2 stalks).",
+		"id": "Rebus kapulaga (3 butir), daun salam (5 lembar), dan serai (2 batang)."
+	},
+	{
+		"en": "Steep black cumin (1 tsp), cinnamon (1 stick), and nutmeg powder (a pinch).",
+		"id": "Seduh jintan hitam (1 sdt), kayu manis (1 batang), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Boil galangal (1 cm), turmeric (2 cm), and cloves (5 pieces).",
+		"id": "Rebus lengkuas (1 cm), kunyit (2 cm), dan cengkeh (5 butir)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick), ginger (2 cm), and cardamom (3 pods).",
+		"id": "Rebus kayu manis (1 batang), jahe (2 cm), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Steep nutmeg powder (a pinch), lemongrass (2 stalks), and black cumin (1 tsp).",
+		"id": "Seduh bubuk pala (sejumput), serai (2 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), cardamom (3 pods), and galangal (1 cm).",
+		"id": "Rebus cengkeh (5 butir), kapulaga (3 butir), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), bay leaves (5 pieces), and black cumin (1 tsp).",
+		"id": "Rebus kunyit (2 cm), daun salam (5 lembar), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick), bay leaves (5 pieces), and galangal (1 cm).",
+		"id": "Rebus kayu manis (1 batang), daun salam (5 lembar), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Boil ginger (2 cm), black cumin (1 tsp), and cinnamon (1 stick).",
+		"id": "Rebus jahe (2 cm), jintan hitam (1 sdt), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), lemongrass (2 stalks), and bay leaves (5 pieces).",
+		"id": "Rebus kapulaga (3 butir), serai (2 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Steep cloves (5 pieces), nutmeg powder (a pinch), and ginger (2 cm).",
+		"id": "Seduh cengkeh (5 butir), bubuk pala (sejumput), dan jahe (2 cm)."
+	},
+	{
+		"en": "Boil galangal (1 cm), black cumin (1 tsp), and lemongrass (2 stalks).",
+		"id": "Rebus lengkuas (1 cm), jintan hitam (1 sdt), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cloves (5 pieces), and cardamom (3 pods).",
+		"id": "Rebus kunyit (2 cm), cengkeh (5 butir), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil lemongrass (2 stalks), bay leaves (5 pieces), and cinnamon (1 stick).",
+		"id": "Rebus serai (2 batang), daun salam (5 lembar), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cardamom (3 pods), and black cumin (1 tsp).",
+		"id": "Rebus jahe (2 cm), kapulaga (3 butir), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), galangal (1 cm), and bay leaves (5 pieces).",
+		"id": "Rebus cengkeh (5 butir), lengkuas (1 cm), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil nutmeg powder (a pinch), lemongrass (2 stalks), and turmeric (2 cm).",
+		"id": "Rebus bubuk pala (sejumput), serai (2 batang), dan kunyit (2 cm)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), ginger (2 cm), and cinnamon (1 stick).",
+		"id": "Rebus kapulaga (3 butir), jahe (2 cm), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cloves (5 pieces), and lemongrass (2 stalks).",
+		"id": "Rebus lengkuas (1 cm), cengkeh (5 butir), dan serai (2 batang)."
+	},
+	{
+		"en": "Steep black cumin (1 tsp), nutmeg powder (a pinch), and cinnamon (1 stick).",
+		"id": "Seduh jintan hitam (1 sdt), bubuk pala (sejumput), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), cardamom (3 pods), and bay leaves (5 pieces).",
+		"id": "Rebus kunyit (2 cm), kapulaga (3 butir), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Steep cardamom (3 pods), nutmeg powder (a pinch), and bay leaves (5 pieces).",
+		"id": "Seduh kapulaga (3 butir), bubuk pala (sejumput), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil cinnamon (1 stick), black cumin (1 tsp), and lemongrass (2 stalks).",
+		"id": "Rebus kayu manis (1 batang), jintan hitam (1 sdt), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cloves (5 pieces), and turmeric (2 cm).",
+		"id": "Rebus lengkuas (1 cm), cengkeh (5 butir), dan kunyit (2 cm)."
+	},
+	{
+		"en": "Steep lemongrass (2 stalks), nutmeg powder (a pinch), and cardamom (3 pods).",
+		"id": "Seduh serai (2 batang), bubuk pala (sejumput), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), bay leaves (5 pieces), and black cumin (1 tsp).",
+		"id": "Rebus cengkeh (5 butir), daun salam (5 lembar), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cardamom (3 pods), and turmeric (2 cm).",
+		"id": "Rebus jahe (2 cm), kapulaga (3 butir), dan kunyit (2 cm)."
+	},
+	{
+		"en": "Steep nutmeg powder (a pinch), cinnamon (1 stick), and bay leaves (5 pieces).",
+		"id": "Seduh bubuk pala (sejumput), kayu manis (1 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil black cumin (1 tsp), galangal (1 cm), and lemongrass (2 stalks).",
+		"id": "Rebus jintan hitam (1 sdt), lengkuas (1 cm), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), turmeric (2 cm), and bay leaves (5 pieces).",
+		"id": "Rebus cengkeh (5 butir), kunyit (2 cm), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), cinnamon (1 stick), and galangal (1 cm).",
+		"id": "Rebus kapulaga (3 butir), kayu manis (1 batang), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Boil ginger (2 cm), lemongrass (2 stalks), and black cumin (1 tsp).",
+		"id": "Rebus jahe (2 cm), serai (2 batang), dan jintan hitam (1 sdt)."
+	},
+	{
+		"en": "Steep nutmeg powder (a pinch), cloves (5 pieces), and cinnamon (1 stick).",
+		"id": "Seduh bubuk pala (sejumput), cengkeh (5 butir), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil turmeric (2 cm), bay leaves (5 pieces), and cardamom (3 pods).",
+		"id": "Rebus kunyit (2 cm), daun salam (5 lembar), dan kapulaga (3 butir)."
+	},
+	{
+		"en": "Boil ginger (2 cm), cardamom (3 pods), and nutmeg powder (a pinch).",
+		"id": "Rebus jahe (2 cm), kapulaga (3 butir), dan bubuk pala (sejumput)."
+	},
+	{
+		"en": "Steep cloves (5 pieces), black cumin (1 tsp), and cinnamon (1 stick).",
+		"id": "Seduh cengkeh (5 butir), jintan hitam (1 sdt), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil cardamom (3 pods), lemongrass (2 stalks), and bay leaves (5 pieces).",
+		"id": "Rebus kapulaga (3 butir), serai (2 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil ginger (2 cm), turmeric (2 cm), and cinnamon (1 stick).",
+		"id": "Rebus jahe (2 cm), kunyit (2 cm), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil galangal (1 cm), cloves (5 pieces), and lemongrass (2 stalks).",
+		"id": "Rebus lengkuas (1 cm), cengkeh (5 butir), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil nutmeg powder (a pinch), cardamom (3 pods), and bay leaves (5 pieces).",
+		"id": "Rebus bubuk pala (sejumput), kapulaga (3 butir), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil black cumin (1 tsp), turmeric (2 cm), and cinnamon (1 stick).",
+		"id": "Rebus jintan hitam (1 sdt), kunyit (2 cm), dan kayu manis (1 batang)."
+	},
+	{
+		"en": "Boil ginger (2 cm), lemongrass (2 stalks), and bay leaves (5 pieces).",
+		"id": "Rebus jahe (2 cm), serai (2 batang), dan daun salam (5 lembar)."
+	},
+	{
+		"en": "Boil cloves (5 pieces), cinnamon (1 stick), and galangal (1 cm).",
+		"id": "Rebus cengkeh (5 butir), kayu manis (1 batang), dan lengkuas (1 cm)."
+	},
+	{
+		"en": "Steep cardamom (3 pods), nutmeg powder (a pinch), and lemongrass (2 stalks).",
+		"id": "Seduh kapulaga (3 butir), bubuk pala (sejumput), dan serai (2 batang)."
+	},
+	{
+		"en": "Boil betel leaves (3 pieces), castor leaves (3 pieces), and soursop leaves (5 pieces).",
+		"id": "Rebus daun sirih (3 lembar), daun jarak (3 lembar), dan daun sirsak (5 lembar)."
+	},
+	{
+		"en": "Boil moringa leaves (3 pieces), pandan leaves (3 pieces), and centella leaves (3 pieces).",
+		"id": "Rebus daun kelor (3 lembar), daun pandan (3 lembar), dan daun pegagan (3 lembar)."
+	},
+	{
+		"en": "Boil lantana leaves (3 pieces), cinnamon leaves (2 cm), and tamarind leaves (3 pieces).",
+		"id": "Rebus daun lantana (3 lembar), daun kayu manis (2 cm), dan daun asam (3 lembar)."
+	},
+	{
+		"en": "Boil hibiscus leaves (3 pieces) and murraya leaves (3 pieces).",
+		"id": "Rebus daun bunga sepatu (3 lembar) dan daun kemuning (3 lembar)."
+	},
+	{
+		"en": "Boil andrographis leaves (5 pieces) and mimosa pudica leaves (5 pieces).",
+		"id": "Rebus daun sambiloto (5 lembar) dan daun putri malu (5 lembar)."
+	},
+	{
+		"en": "Boil bluntas leaves (5 pieces) and shallot leaves (2 pieces).",
+		"id": "Rebus daun beluntas (5 lembar) dan daun bawang merah (2 lembar)."
+	},
+	{
+		"en": "Boil creeping jenny leaves (3 pieces) and fennel leaves (3 pieces).",
+		"id": "Rebus daun tapak liman (3 lembar) dan daun adas (3 lembar)."
+	},
+	{
+		"en": "Boil clove leaves (3 pieces), castor leaves (3 pieces), and soursop leaves (5 pieces).",
+		"id": "Rebus daun cengkeh (3 lembar), daun jarak (3 lembar), dan daun sirsak (5 lembar)."
+	},
+	{
+		"en": "Boil starfruit leaves (3 pieces), andrographis leaves (3 pieces), and murraya leaves (3 pieces).",
+		"id": "Rebus daun belimbing wuluh (3 lembar), daun sambiloto (3 lembar), dan daun kemuning (3 lembar)."
+	},
+	{
+		"en": "Boil cat's whiskers flowers (5 pieces) and celery leaves (3 pieces).",
+		"id": "Rebus bunga kumis kucing (5 lembar) dan daun seledri (3 lembar)."
+	},
+	{
+		"en": "Boil neem leaves (3 pieces) and murraya leaves (3 pieces).",
+		"id": "Rebus daun mimba (3 lembar) dan daun kemuning (3 lembar)."
+	},
+	{
+		"en": "Boil sambeloto leaves (3 pieces) and fennel leaves (3 pieces).",
+		"id": "Rebus daun sambiloto (3 lembar) dan daun adas (3 lembar)."
+	},
+	{
+		"en": "Boil javanese turmeric leaves (3 pieces) and soursop leaves (5 pieces).",
+		"id": "Rebus daun kunyit (3 lembar) dan daun sirsak (5 lembar)."
+	},
+	{
+		"en": "Boil water apple leaves (3 pieces) and moringa leaves (3 pieces).",
+		"id": "Rebus daun jambu air (3 lembar) dan daun kelor (3 lembar)."
+	},
+	{
+		"en": "Boil ketepeng leaves (5 pieces), betel leaves (3 pieces), and sambeloto leaves (3 pieces).",
+		"id": "Rebus daun ketepeng (5 lembar), daun sirih (3 lembar), dan daun sambiloto (3 lembar)."
+	},
+	{
+		"en": "Boil pepper leaves (3 pieces) and cat's whiskers leaves (5 pieces).",
+		"id": "Rebus daun lada (3 lembar) dan daun kumis kucing (5 lembar)."
+	},
+	{
+		"en": "Boil mahkota dewa leaves (3 pieces) and centella leaves (5 pieces).",
+		"id": "Rebus daun mahkota dewa (3 lembar) dan daun pegagan (5 lembar)."
+	},
+	{
+		"en": "Boil java key leaves (3 pieces) and dayak onion leaves (3 pieces).",
+		"id": "Rebus daun kunci jawa (3 lembar) dan daun bawang dayak (3 lembar)."
+	},
+	{
+		"en": "Boil blustru leaves (3 pieces) and cat's whiskers leaves (5 pieces).",
+		"id": "Rebus daun blustru (3 lembar) dan daun kumis kucing (5 lembar)."
+	},
+	{
+		"en": "Boil roselle flowers leaves (5 pieces) and guava leaves (3 pieces).",
+		"id": "Rebus daun rosella (5 lembar) dan daun jambu biji (3 lembar)."
+	},
+	{
+		"en": "Boil javanese turmeric leaves (3 pieces) and water apple leaves (3 pieces).",
+		"id": "Rebus daun kunyit jawa (3 lembar) dan daun belimbing wuluh (3 lembar)."
+	},
+	{
+		"en": "Boil centella leaves (5 pieces) and betel leaves (3 pieces).",
+		"id": "Rebus daun pegagan (5 lembar) dan daun sirih (3 lembar)."
+	},
+	{
+		"en": "Boil clove flowers leaves (3 pieces) and noni leaves (3 pieces).",
+		"id": "Rebus daun bunga cengkeh (3 lembar) dan daun mengkudu (3 lembar)."
+	},
+	{
+		"en": "Boil kaduk leaves (5 pieces) and katuk leaves (5 pieces).",
+		"id": "Rebus daun kaduk (5 lembar) dan daun katuk (5 lembar)."
+	},
+	{
+		"en": "Boil red tip leaves (3 pieces) and moringa leaves (3 pieces).",
+		"id": "Rebus daun pucuk merah (3 lembar) dan daun kelor (3 lembar)."
+	},
+	{
+		"en": "Boil blustru leaves (3 pieces) and bluntas leaves (3 pieces).",
+		"id": "Rebus daun blustru (3 lembar) dan daun beluntas (3 lembar)."
+	},
+	{
+		"en": "Boil aloe vera leaves (3 pieces) and neem leaves (3 pieces).",
+		"id": "Rebus daun lidah buaya (3 lembar) dan daun mimba (3 lembar)."
+	},
+	{
+		"en": "Boil soursop leaves (3 pieces) and bay leaves (3 pieces).",
+		"id": "Rebus daun sirsak (3 lembar) dan daun salam (3 lembar)."
+	},
+	{
+		"en": "Boil ginger leaves (2 cm) and cinnamon leaves (2 cm).",
+		"id": "Rebus daun jahe (2 cm) dan daun kayu manis (2 cm)."
+	},
+	{
+		"en": "Boil moringa leaves (3 pieces) and kaempferia leaves (2 cm).",
+		"id": "Rebus daun kelor (3 lembar) dan daun kencur (2 cm)."
+	},
+	{
+		"en": "Boil binahong leaves (5 pieces) and sambeloto leaves (3 pieces).",
+		"id": "Rebus daun binahong (5 lembar) dan daun sambiloto (3 lembar)."
+	},
+	{
+		"en": "Boil betel leaves (3 pieces) and turmeric leaves (3 cm).",
+		"id": "Rebus daun sirih (3 lembar) dan daun kunyit (3 cm)."
+	},
+	{
+		"en": "Boil mimosa pudica leaves (5 pieces) and cat's whiskers leaves (3 pieces).",
+		"id": "Rebus daun putri malu (5 lembar) dan daun kumis kucing (3 lembar)."
+	},
+	{
+		"en": "Boil tempuyung leaves (3 pieces) and soursop leaves (3 pieces).",
+		"id": "Rebus daun tempuyung (3 lembar) dan daun sirsak (3 lembar)."
+	},
+	{
+		"en": "Boil belanda teak leaves (5 pieces) and celery leaves (5 pieces).",
+		"id": "Rebus daun jati belanda (5 lembar) dan daun seledri (5 lembar)."
+	},
+	{
+		"en": "Boil andong leaves (3 pieces) and kaduk leaves (3 pieces).",
+		"id": "Rebus daun andong (3 lembar) dan daun kaduk (3 lembar)."
+	},
+	{
+		"en": "Boil turmeric leaves (3 cm) and cinnamon leaves (2 cm).",
+		"id": "Rebus daun kunyit (3 cm) dan daun kayu manis (2 cm)."
+	},
+	{
+		"en": "Boil moringa leaves (3 pieces) and blustru leaves (3 pieces).",
+		"id": "Rebus daun kelor (3 lembar) dan daun blustru (3 lembar)."
+	},
+	{
+		"en": "Boil centella leaves (5 pieces) and sambeloto leaves (3 pieces).",
+		"id": "Rebus daun pegagan (5 lembar) dan daun sambiloto (3 lembar)."
+	},
+	{
+		"en": "Boil javanese key leaves (3 pieces) and red tip leaves (3 pieces).",
+		"id": "Rebus daun kunci jawa (3 lembar) dan daun pucuk merah (3 lembar)."
+	},
+	{
+		"en": "Boil bluntas leaves (5 pieces) and neem leaves (3 pieces).",
+		"id": "Rebus daun beluntas (5 lembar) dan daun mimba (3 lembar)."
+	},
+	{
+		"en": "Boil mahkota dewa leaves (3 pieces) and guava leaves (3 pieces).",
+		"id": "Rebus daun mahkota dewa (3 lembar) dan daun jambu biji (3 lembar)."
+	},
+	{
+		"en": "Boil sambung nyawa leaves (5 pieces) and temulawak leaves (3 pieces).",
+		"id": "Rebus daun sambung nyawa (5 lembar) dan daun temulawak (3 lembar)."
+	},
+	{
+		"en": "Boil soursop leaves (3 pieces) and ciplukan leaves (3 pieces).",
+		"id": "Rebus daun sirsak (3 lembar) dan daun ciplukan (3 lembar)."
+	},
+	{
+		"en": "Boil betel leaves (3 pieces) and moringa leaves (3 pieces).",
+		"id": "Rebus daun sirih (3 lembar) dan daun kelor (3 lembar)."
+	},
+	{
+		"en": "Boil moringa leaves (3 pieces) and belanda teak leaves (3 pieces).",
+		"id": "Rebus daun kelor (3 lembar) dan daun jati belanda (3 lembar)."
+	},
+	{
+		"en": "Boil blustru leaves (3 pieces) and red tip leaves (3 pieces).",
+		"id": "Rebus daun blustru (3 lembar) dan daun pucuk merah (3 lembar)."
+	},
+	{
+		"en": "Boil banana leaves (3 pieces) and aloe vera leaves (3 pieces).",
+		"id": "Rebus daun pisang (3 lembar) dan daun lidah buaya (3 lembar)."
+	},
+	{
+		"en": "Boil ginseng leaves (3 pieces) and celery leaves (3 pieces).",
+		"id": "Rebus daun ginseng (3 lembar) dan daun seledri (3 lembar)."
+	},
+	{
+		"en": "Boil kaempferia leaves (2 cm) and cinnamon leaves (2 cm).",
+		"id": "Rebus daun kencur (2 cm) dan daun kayu manis (2 cm)."
+	},
+	{
+		"en": "Boil javanese key leaves (3 pieces) and cat's whiskers leaves (3 pieces).",
+		"id": "Rebus daun kunci jawa (3 lembar) dan daun kumis kucing (3 lembar)."
+	},
+	{
+		"en": "Boil tempuyung leaves (3 pieces) and celery leaves (3 pieces).",
+		"id": "Rebus daun tempuyung (3 lembar) dan daun seledri (3 lembar)."
+	},
+	{
+		"en": "Boil belanda teak leaves (3 pieces) and moringa leaves (3 pieces).",
+		"id": "Rebus daun jati belanda (3 lembar) dan daun kelor (3 lembar)."
+	},
+	{
+		"en": "Boil centella leaves (5 pieces) and celery leaves (3 pieces).",
+		"id": "Rebus daun pegagan (5 lembar) dan daun seledri (3 lembar)."
+	},
+	{
+		"en": "Boil sambung nyawa leaves (4 pieces) and soursop leaves (3 pieces).",
+		"id": "Rebus daun sambung nyawa (4 lembar) dan daun sirsak (3 lembar)."
+	},
+	{
+		"en": "Boil turmeric leaves (3 pieces) and cinnamon leaves (2 cm).",
+		"id": "Rebus daun kunyit (3 lembar) dan daun kayu manis (2 cm)."
+	},
+	{
+		"en": "Boil tempuyung leaves (3 pieces) and cat's whiskers leaves (3 pieces).",
+		"id": "Rebus daun tempuyung (3 lembar) dan daun kumis kucing (3 lembar)."
+	},
+	{
+		"en": "Boil ciplukan leaves (5 pieces) and red tip leaves (3 pieces).",
+		"id": "Rebus daun ciplukan (5 lembar) dan daun pucuk merah (3 lembar)."
+	},
+	{
+		"en": "Boil mahkota dewa leaves (3 pieces) and belanda teak leaves (3 pieces).",
+		"id": "Rebus daun mahkota dewa (3 lembar) dan daun jati belanda (3 lembar)."
+	},
+	{
+		"en": "Boil temulawak leaves (3 pieces) and blustru leaves (3 pieces).",
+		"id": "Rebus daun temulawak (3 lembar) dan daun blustru (3 lembar)."
+	},
+	{
+		"en": "Boil celery leaves (5 pieces) and ciplukan leaves (3 pieces).",
+		"id": "Rebus daun seledri (5 lembar) dan daun ciplukan (3 lembar)."
+	},
+	{
+		"en": "Boil javanese key leaves (3 pieces) and beluntas leaves (5 pieces).",
+		"id": "Rebus daun kunci jawa (3 lembar) dan daun beluntas (5 lembar)."
+	},
+	{
+		"en": "Boil red shallot leaves (3 pieces) and ginger leaves (2 cm).",
+		"id": "Rebus daun bawang merah (3 lembar) dan daun jahe (2 cm)."
+	},
+	{
+		"en": "Boil tempuyung leaves (3 pieces) and green tea leaves (3 pieces).",
+		"id": "Rebus daun tempuyung (3 lembar) dan daun teh hijau (3 lembar)."
+	},
+	{
+		"en": "Boil beluntas leaves (5 pieces) and moringa leaves (5 pieces).",
+		"id": "Rebus daun beluntas (5 lembar) dan daun kelor (5 lembar)."
+	},
+	{
+		"en": "Boil soursop leaves (3 pieces) and celery leaves (3 pieces).",
+		"id": "Rebus daun sirsak (3 lembar) dan daun seledri (3 lembar)."
+	},
+	{
+		"en": "Boil mahkota dewa leaves (3 pieces) and turmeric leaves (3 cm).",
+		"id": "Rebus daun mahkota dewa (3 lembar) dan daun kunyit (3 cm)."
+	},
+	{
+		"en": "Boil ginseng leaves (3 pieces) and cat's whiskers leaves (3 pieces).",
+		"id": "Rebus daun ginseng (3 lembar) dan daun kumis kucing (3 lembar)."
+	},
+	{
+		"en": "Boil tempuyung leaves (3 pieces) and moringa leaves (3 pieces).",
+		"id": "Rebus daun tempuyung (3 lembar) dan daun kelor (3 lembar)."
+	},
+	{
+		"en": "Boil temulawak leaves (3 pieces) and red tip leaves (3 pieces).",
+		"id": "Rebus daun temulawak (3 lembar) dan daun pucuk merah (3 lembar)."
+	},
+	{
+		"en": "Boil red tip leaves (3 pieces) and cinnamon leaves (2 cm).",
+		"id": "Rebus daun pucuk merah (3 lembar) dan daun kayu manis (2 cm)."
+	},
+	{
+		"en": "Boil cat's whiskers leaves (3 pieces) and belanda teak leaves (3 pieces).",
+		"id": "Rebus daun kumis kucing (3 lembar) dan daun jati belanda (3 lembar)."
+	}
+]
